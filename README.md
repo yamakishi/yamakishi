@@ -33,4 +33,4 @@ With a solid full-stack mindset, I also leverage **Node.js** for backend support
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielyamakishi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=browser&logoColor=white)]([https://yamakishi.github.io/my-portfolio](https://portfolio-gabriel-ebon.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=browser&logoColor=white)](https://portfolio-gabriel-ebon.vercel.app/)
